@@ -1,0 +1,6 @@
+C:\Users\chris\Desktop\Examen_SGBD_2017\libModel\bin\Debug\libModel.dll
+C:\Users\chris\Desktop\Examen_SGBD_2017\libModel\bin\Debug\libModel.pdb
+C:\Users\chris\Desktop\Examen_SGBD_2017\libModel\obj\Debug\libModel.csprojResolveAssemblyReference.cache
+C:\Users\chris\Desktop\Examen_SGBD_2017\libModel\obj\Debug\libModel.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Examen_SGBD_2017\libModel\obj\Debug\libModel.dll
+C:\Users\chris\Desktop\Examen_SGBD_2017\libModel\obj\Debug\libModel.pdb

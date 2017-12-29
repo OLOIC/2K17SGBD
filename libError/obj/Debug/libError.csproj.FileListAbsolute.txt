@@ -1,0 +1,6 @@
+C:\Users\chris\Desktop\Examen_SGBD_2017\libError\bin\Debug\libError.dll
+C:\Users\chris\Desktop\Examen_SGBD_2017\libError\bin\Debug\libError.pdb
+C:\Users\chris\Desktop\Examen_SGBD_2017\libError\obj\Debug\libError.csprojResolveAssemblyReference.cache
+C:\Users\chris\Desktop\Examen_SGBD_2017\libError\obj\Debug\libError.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Examen_SGBD_2017\libError\obj\Debug\libError.dll
+C:\Users\chris\Desktop\Examen_SGBD_2017\libError\obj\Debug\libError.pdb

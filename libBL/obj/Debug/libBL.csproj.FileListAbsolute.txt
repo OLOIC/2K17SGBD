@@ -1,0 +1,12 @@
+C:\Users\chris\Desktop\Examen_SGBD_2017\libBL\bin\Debug\libBL.dll
+C:\Users\chris\Desktop\Examen_SGBD_2017\libBL\bin\Debug\libBL.pdb
+C:\Users\chris\Desktop\Examen_SGBD_2017\libBL\bin\Debug\libDAL.dll
+C:\Users\chris\Desktop\Examen_SGBD_2017\libBL\bin\Debug\libError.dll
+C:\Users\chris\Desktop\Examen_SGBD_2017\libBL\bin\Debug\libModel.dll
+C:\Users\chris\Desktop\Examen_SGBD_2017\libBL\bin\Debug\libDAL.pdb
+C:\Users\chris\Desktop\Examen_SGBD_2017\libBL\bin\Debug\libError.pdb
+C:\Users\chris\Desktop\Examen_SGBD_2017\libBL\bin\Debug\libModel.pdb
+C:\Users\chris\Desktop\Examen_SGBD_2017\libBL\obj\Debug\libBL.csprojResolveAssemblyReference.cache
+C:\Users\chris\Desktop\Examen_SGBD_2017\libBL\obj\Debug\libBL.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Examen_SGBD_2017\libBL\obj\Debug\libBL.dll
+C:\Users\chris\Desktop\Examen_SGBD_2017\libBL\obj\Debug\libBL.pdb

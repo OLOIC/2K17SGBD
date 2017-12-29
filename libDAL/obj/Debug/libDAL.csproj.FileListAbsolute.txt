@@ -1,0 +1,10 @@
+C:\Users\chris\Desktop\Examen_SGBD_2017\libDAL\bin\Debug\libDAL.dll
+C:\Users\chris\Desktop\Examen_SGBD_2017\libDAL\bin\Debug\libDAL.pdb
+C:\Users\chris\Desktop\Examen_SGBD_2017\libDAL\bin\Debug\libError.dll
+C:\Users\chris\Desktop\Examen_SGBD_2017\libDAL\bin\Debug\libModel.dll
+C:\Users\chris\Desktop\Examen_SGBD_2017\libDAL\bin\Debug\libError.pdb
+C:\Users\chris\Desktop\Examen_SGBD_2017\libDAL\bin\Debug\libModel.pdb
+C:\Users\chris\Desktop\Examen_SGBD_2017\libDAL\obj\Debug\libDAL.csprojResolveAssemblyReference.cache
+C:\Users\chris\Desktop\Examen_SGBD_2017\libDAL\obj\Debug\libDAL.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Examen_SGBD_2017\libDAL\obj\Debug\libDAL.dll
+C:\Users\chris\Desktop\Examen_SGBD_2017\libDAL\obj\Debug\libDAL.pdb
